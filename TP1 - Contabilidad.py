@@ -4,7 +4,7 @@ os.system("cls")
 b=0;
 c=0;
 
-for x in range (2):
+for x in range (10):
     x=int(input("Ingrese una nota: "))
     if x>=7:
         b=b+1
